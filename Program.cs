@@ -103,9 +103,9 @@ namespace CoreCollectionsAsync
         }
 
 
-        static void Main(string[] args)
-        {
-            DemoAsync().Wait();
+        //static void Main(string[] args)
+        //{
+        //    DemoAsync().Wait();
             //1. Prepare Omlette with no progress bar
             //DelegateAndEventsDemo.RunDemo_1();
 
@@ -129,7 +129,7 @@ namespace CoreCollectionsAsync
 
             //8. Solution of events and threads exercise
             //EventsExercise.Start2();
-        }
+        //}
 
 
     } 
